@@ -12,8 +12,8 @@
 1. 이 저장소를 클론합니다:
 
    ```
-   git clone https://github.com/yourusername/uuid-converter.git
-   cd uuid-converter
+   git clone https://github.com/daunJung-dev/uuid-to-hex.git
+   cd uuid-to-hex
    ```
 
 2. 의존성을 설치합니다:
